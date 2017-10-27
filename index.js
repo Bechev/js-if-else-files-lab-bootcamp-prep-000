@@ -1,4 +1,4 @@
-var name = "Joe"
+var name = "Suzanne"
 var height = "74"
 
 if(name=== "Suzanne"){
@@ -10,4 +10,3 @@ if(name=== "Suzanne"){
 // Don't worry about this
 module.exports = { name, height
 }
-
